@@ -161,7 +161,13 @@ export default function Profile({
 
       <ProfileOption title="Privacy Policy" onPress={() => { }} />
       <ProfileOption title="Terms & Conditions" onPress={() => { }} />
-        <ProfileOption title="Log out" onPress={logout} />
+        {
+          user ?
+          <ProfileOption title="Log out" onPress={logout} />
+          :
+          null
+
+        }
 
       {/* Footer */}
       <View style={styles.footer}>
