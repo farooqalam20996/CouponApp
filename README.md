@@ -146,10 +146,10 @@ Hybrid Mobile & Web Developer
 https://farooqalam.com
 
 💼 LinkedIn  
-https://linkedin.com/in/YOUR_PROFILE
+https://www.linkedin.com/in/muhammad-farooq-alam-abbasi-174616153/
 
 🐙 GitHub  
-https://github.com/YOUR_USERNAME
+https://github.com/farooqalam20996?tab=respositories
 
 ---
 
