@@ -1,5 +1,9 @@
 # 🎟️ Coupon App
 
+![React Native](https://img.shields.io/badge/ReactNative-MobileApp-blue)
+![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-green)
+![License](https://img.shields.io/badge/license-MIT-orange)
+
 ![Coupon App Banner](assets/banner.png)
 
 > A modern **React Native Coupon Application** that helps users discover and save the best deals and discounts.
